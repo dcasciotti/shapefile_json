@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2260" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "OBJECTID_1": 42376, "OBJECTID": 17611.0, "SWIS_CODE": "010100", "PIN_SBL": "06407600010120000000", "ADD_CLASS": "PRIMARY", "CONFIDENCE": 2.0, "FLD_VER": null, "HN_TXT": "297", "HN_NUM": 297.0, "PD": null, "PT": null, "SN": "ONTARIO", "ST": "ST", "SD": null, "COMMENTS": "64.76-1-12", "AKA": "17154", "BLDG_ADDRE": "297 ONTARIO ST", "ESRI_LOCAT": "297 ONTARIO ST", "STREET_FUL": "297 Ontario Street" }, "geometry": { "type": "Point", "coordinates": [ 685139.29590617120266, 1395029.052354425191879 ] } },
